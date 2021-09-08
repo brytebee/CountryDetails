@@ -7,6 +7,8 @@ The Country in Brief website displays a card of countries submitted by User. I u
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/27709832/132577519-a7d18dae-365a-4475-a98c-adeb7f4d00e0.png)
 
+[Live Demo](https://brytebee.github.io/CountryDetails/)
+
 ## Built With
 
 - HTML5, CSS3(Bootstrap 5) and JavaScript
