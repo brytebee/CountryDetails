@@ -2,7 +2,7 @@
 
 ## Description
 
-The Country in Brief website displays a card of countries submitted by User. I use the [REST COUNTRIES](https://restcountries.eu/) API service
+The Country in Brief website displays a card of countries submitted by the User. I use the [REST COUNTRIES](https://restcountries.eu/) API service.
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/27709832/132577519-a7d18dae-365a-4475-a98c-adeb7f4d00e0.png)
