@@ -5,7 +5,7 @@
 The Country in Brief website displays a card of countries submitted by User. I use the [REST COUNTRIES](https://restcountries.eu/) API service
 
 ## Screenshot
-
+![image](https://user-images.githubusercontent.com/27709832/132577519-a7d18dae-365a-4475-a98c-adeb7f4d00e0.png)
 
 ## Built With
 
@@ -28,7 +28,7 @@ Load the page and enjoy!
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/brytebee/Leaderboard/issues).
+Feel free to check the [issues page](https://github.com/brytebee/CountryDetails/issues).
 
 ## Show your support
 
